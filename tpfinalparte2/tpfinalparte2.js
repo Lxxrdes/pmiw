@@ -1,3 +1,8 @@
+//Rivoira Lourdes / Salvador Mallaina
+//Comisión 4
+
+
+
 let juego;
 
 function setup() {
